@@ -11,7 +11,7 @@
 <p align="left">👋 Hola, soy Hector Lopez. Me especializo en arquitecturas de software que resuelven problemas reales de negocio. Tengo experiencia construyendo sistemas de gestión (ERP/SaaS) desde el diseño de la base de datos hasta el despliegue en producción.</p>
 
 ###
-
+<!-- 
 <h3 align="left">🔥Mis estadísticas:</h3>
 
 ###
@@ -22,7 +22,7 @@
 </div>
 
 ###
-
+-->
 <h3 align="left">🛠 Lenguaje y Herramientas</h3>
 
 ###
